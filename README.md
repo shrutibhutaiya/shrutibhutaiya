@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Machine Learning
+- 🔭 I’m currently working on ... Machine Learning, NLP
 - 🌱 I’m currently learning ... Deep Learning, PySpark, NiFi
 
 - 📫 How to reach me: ... bhutaiyashruti@gmail.com
